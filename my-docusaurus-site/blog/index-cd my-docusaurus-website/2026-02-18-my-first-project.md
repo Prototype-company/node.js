@@ -1,8 +1,7 @@
 ---
 slug: my-first-post
 title: My First Blog Post
-authors: [Prototype-company]
-tags: [My first git project at all]
+tags: [Hello]
 ---
 
 Welcome to my first blog post! This is where I'll share my learning journey.
